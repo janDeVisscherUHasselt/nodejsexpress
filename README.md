@@ -13,3 +13,5 @@ docker build --tag node-docker .
 ```
 docker run --publish 3000:3000 node-docker
 ```
+## Enter site
+http://localhost:3000
